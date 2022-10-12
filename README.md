@@ -62,6 +62,14 @@ The WIP project of this keyboard could be seen at my other GitHub Repository:
 
 https://github.com/CleversonSA/teensy-xbox-cheap-chatpad-keyboard-usb
 
+# (Optional) "Real time clock"
+
+Just for my taste, I liked to attach an digital wrist watch to the case, just to....tell the time :) nothing else.
+
+It has no integration with the Raspberry Pi and runs standalone.
+
+In my case, I had one case broken Casio FW-91, so I wired his eletronics to a broken toy piezo and It worked very well.
+
 
 # Building
 
