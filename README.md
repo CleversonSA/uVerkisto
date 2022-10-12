@@ -79,4 +79,16 @@ I´ve not created a step by step building video, but I´ll post many photos as p
 + Top view opened with "Real time clock" (Optional)
 ![Imgur_Image](https://imgur.com/kbsJeix.jpg)
 
++ Side view opened
+![Imgur_Image](https://imgur.com/IGLXG8a.jpg)
+
++ Bottom teardown
+![Imgur_Image](https://imgur.com/TZt1MRg.jpg)
+
++ Bottom keyboard cover teardown (I promess more detailed wiring in future)
+![Imgur_Image](https://imgur.com/SnQ19sr.jpg)
+
++ Top teardown
+![Imgur_Image](https://imgur.com/3vg7Kym.jpg)
+
 
