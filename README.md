@@ -40,6 +40,32 @@ I´m using a Creality Ender 3D Printer with PLA. For slicing, I´m using the Ult
    - Generate support: true
    - Plate adesion type: skirt
 
+ # Parts
+ 
+ + Raspberry PI Zero W (or W2 or a form factor compatible)
+ + XBox 360 Chat pad clone (I don´t tested with the original chat pad one)
+ + Arduino Teensy 1.2
+ + 3.5 SPI LCD Screen (HDMI will supported yet)
+ + 1S Li-ion BMS with mini usb charger
+ + 1S 1000Mha 3.7V li-ion battery
+ + DC-DC 3.7 to 5v booster (600 mAh at least)
+ + Some wires
+ + An On-Off switch
+ + Two screws (see into the photos)
+
+# Keyboard
+
+This project uses a hard wired keyboard, interfaced by the Arduino Teensy and RPi Usb port. If you want to use a BT or 2.4Ghz one that fits into the case and cover, go ahead, but personally, I prefer to use a wired one.
+
+The WIP project of this keyboard could be seen at my other GitHub Repository:
+
+https://github.com/CleversonSA/teensy-xbox-cheap-chatpad-keyboard-usb
+
+
+# Building
+
+I´ve not created a step by step building video, but I´ll post many photos as possible of this build:
+
 
 
 
