@@ -3,7 +3,7 @@ All the changes of uVerkisto Project
 
 ## [Unreleased]
 
-## [1.0.0] - 2022-10-12
+## [0.5.0] - 2022-10-12
 ### Added
 - First model design based on my lasts trials and errors
 - Created github repo for project info
