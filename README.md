@@ -23,3 +23,23 @@ At this time, 2022/10/12, I´m using a Raspberry PI Zero W from 2018, just becau
 I have a RPi 3B and RPi 4B but they are a power hog for a small battery form factor usage.
 
 
+# 3D Printing
+
+I´m using a Creality Ender 3D Printer with PLA. For slicing, I´m using the Ultimaker Cura 5.0.0 app.
+
++ My basic settings
+
+   - Standard Quality: 0.2mm
+   - Wall line count: 2
+   - Top/Bottom thickness: 0.8
+   - Bottom layers: 4
+   - Infill Density: 15.0%
+   - Build plate temperature: 60
+   - Print speed: 50
+   - Enable retraction: true
+   - Generate support: true
+   - Plate adesion type: skirt
+
+
+
+
