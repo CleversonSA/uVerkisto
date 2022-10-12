@@ -52,6 +52,7 @@ I´m using a Creality Ender 3D Printer with PLA. For slicing, I´m using the Ult
  + Some wires
  + An On-Off switch
  + Two screws (see into the photos)
+ + (Optional) An old FW-91 Casio and any piezo.
 
 # Keyboard
 
@@ -66,8 +67,16 @@ https://github.com/CleversonSA/teensy-xbox-cheap-chatpad-keyboard-usb
 
 I´ve not created a step by step building video, but I´ll post many photos as possible of this build:
 
++ Front View Opened
+![Imgur Image](https://imgur.com/ASfawPd.jpg)
 
++ Side view Closed (this is an issue to fix, the case does not close very well)
+![Imgur Image](https://imgur.com/sC47W0y.jpg)
 
++ Top View Closed with "Real time clock" (Optional)
+![Imgur Image](https://imgur.com/mCk7kJd.jpg)
 
++ Top view opened with "Real time clock" (Optional)
+![Imgur_Image](https://imgur.com/kbsJeix.jpg)
 
 
